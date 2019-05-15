@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yopatiekoh.peanutbuttershoes.com/sitemap.xml
